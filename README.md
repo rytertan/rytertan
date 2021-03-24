@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rytertan
-- 👀 I’m interested in HTML5, CSS3, JavaScript, Webdeveping.
+- 👀 I’m interested in HTML5, CSS3, JavaScript, Webdeveloping.
 - 🌱 I’m currently learning JavaScript, OOP
 
 
